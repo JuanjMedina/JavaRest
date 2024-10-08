@@ -20,7 +20,7 @@ git clone https://github.com/JuanjMedina/JavaRest.git
 
 2. Crear la base de datos en MySQL
 
-```sql
+```mysql
 CREATE DATABASE dbclientes;
 ```
 
